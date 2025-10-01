@@ -219,7 +219,7 @@ If you use ODB2ANY in your research, please cite it using:
 
 ## License
 
-MIT License - Copyright (c) 2025 Ali Saeedi Rad
+GNU General Public License v3.0 - Copyright (c) 2025 Ali Saeedi Rad
 
 ## Author
 Ali Saeedi Rad  
