@@ -1,0 +1,13 @@
+*.pyc
+*.cae
+*.com
+*.dat
+*.log
+*.msg
+*.odb
+*.prt
+*.sta
+*.rpy*
+
+ODB2PLOT/
+ODB2JSON/
