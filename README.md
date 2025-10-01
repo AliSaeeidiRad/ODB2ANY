@@ -82,14 +82,14 @@ ODB2ANY is a professional toolkit for extracting, converting, and visualizing AB
    python odb2plot.py --field example/ODB2JSON/Job-1_instances_PART-1-1_field_output.json --plot-config plot_config_s_example.json --field-option S_ --data-key mises --step *
    ```
 
-![Von Mises Stress Plot Example](example/plot_example_for_vom_mises.tiff)
+![Von Mises Stress Plot Example](example/plot_example_for_vom_mises.png)
 
 5. Plot displacements:
    ```bash
    python odb2plot.py --field example/ODB2JSON/Job-1_instances_PART-1-1_field_output.json --plot-config plot_config_u_example.json --field-option U_ --step *
    ```
 
-![U Plot Example](example/plot_example_for_translation.tiff)
+![U Plot Example](example/plot_example_for_translation.png)
 
 ## Detailed Usage Guide
 
